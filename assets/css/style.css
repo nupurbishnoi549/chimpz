@@ -192,7 +192,7 @@ header {
         width: 100%;
         height: 100%;
         justify-content: center;
-        background-color: black;
+        background-color: blue;
         position: fixed;
         top: 0%;
         right: -100%;
@@ -222,7 +222,7 @@ header {
 
     input[type="checkbox"]:checked~.lg-view {
         right: 0;
-        background-color: black;
+        background-color: blue;
 
     }
 }
@@ -270,11 +270,9 @@ header {
         padding-left: 12px;
         padding-right: 12px;
     }
-
-    .w-100 {
+ .w-100 {
         width: 100%;
     }
-
     .page1 {
         align-items: center;
     }
