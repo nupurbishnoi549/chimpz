@@ -107,6 +107,9 @@ section {
     text-align: left;
 cursor: pointer;
 }
+.dm-sans:hover{
+    color: white;
+}
 .flex-column {
     flex-direction: column;
 }
