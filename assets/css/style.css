@@ -105,9 +105,8 @@ section {
     font-size: 16px;
     font-weight: 400;
     text-align: left;
-
+cursor: pointer;
 }
-
 .flex-column {
     flex-direction: column;
 }
